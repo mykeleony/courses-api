@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.myke.courses"},{"l":"com.myke.courses.api.controller"},{"l":"com.myke.courses.api.exceptionhandler"},{"l":"com.myke.courses.domain.exception"},{"l":"com.myke.courses.domain.model"},{"l":"com.myke.courses.domain.repository"},{"l":"com.myke.courses.domain.service"}];updateSearchResults();

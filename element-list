@@ -1,0 +1,7 @@
+com.myke.courses
+com.myke.courses.api.controller
+com.myke.courses.api.exceptionhandler
+com.myke.courses.domain.exception
+com.myke.courses.domain.model
+com.myke.courses.domain.repository
+com.myke.courses.domain.service
